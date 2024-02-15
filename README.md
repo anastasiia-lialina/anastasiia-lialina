@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JwbnI3c3BtYnAxd3Z4dGh2NWV1M2QzMmF0ZHNwNDEwcHhhcno5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kReKcfrs1YoTmt2AQt/giphy.gif"></img>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJieTlvdjFwMTF4b2RqNHl4d2N6dm1ydjZtaHYwZXRsbWh6dG8xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qp8JVw4n37No6spF3s/giphy.gif"></img>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12CD6D&center=true&vCenter=true&random=false&width=476&height=60&lines=Hi+there%2C+I'm+Anastasiia)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16C3CD&center=true&vCenter=true&multiline=true&random=false&width=476&height=117&lines=backend+developer)](https://git.io/typing-svg)
