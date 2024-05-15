@@ -1,8 +1,14 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJieTlvdjFwMTF4b2RqNHl4d2N6dm1ydjZtaHYwZXRsbWh6dG8xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qp8JVw4n37No6spF3s/giphy.gif"></img>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUzaGNsb3c0c2E3ZTU0dTB2dDBtZ3cxaGlrNDlzNXpvMWN3OHp6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vq7lT6pSv2tFJaIQx5/giphy.gif" width="100"/>
+  <h1 align="center">Анастасия Бычкина</h1>
+  <p align="center" style="color:#F5AD4C">Web developer</p>
+</div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12CD6D&center=true&vCenter=true&random=false&width=476&height=60&lines=Hi+there%2C+I'm+Anastasiia)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16C3CD&center=true&vCenter=true&multiline=true&random=false&width=476&height=117&lines=backend+developer)](https://git.io/typing-svg)
-
+<div id="badges"  align="center">
+  <a href="https://t.me/lyalinaav">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <div align="center">
   <h3 align="left">Languages and Tools:</h3>
