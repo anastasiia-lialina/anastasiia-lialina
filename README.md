@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUzaGNsb3c0c2E3ZTU0dTB2dDBtZ3cxaGlrNDlzNXpvMWN3OHp6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vq7lT6pSv2tFJaIQx5/giphy.gif" width="100"/>
   <h1 align="center">Анастасия Бычкина</h1>
   <p align="center" style="color:#F5AD4C">Web developer</p>
 </div>
